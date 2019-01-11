@@ -3,6 +3,7 @@
 ## TOTAL DURATION: 4 Hours
 
 <br />
+
 **BEFORE YOU BEGIN, READ THIS**
 - Create an Angular Project using NPM and Angular CLI.
 - You may use any open source libraries via NPM that aid quicker development.

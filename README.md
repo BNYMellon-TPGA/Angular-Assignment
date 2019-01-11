@@ -8,8 +8,8 @@
 - You may use any open source libraries via NPM that aid quicker development.
 - Ensure that your code is written in TypeScript instead of JavaScript.
 - Once completed, ensure that you run the build to generate the Javascript code.
-
-
+<br />
+<br />
 
 > SECTION 1 - **Duration 40 Minutes**
 Create a Login page. This should be the default view. Feel free to design it the way you like it and apply your own theme. Add Form validations to the Login screen.
